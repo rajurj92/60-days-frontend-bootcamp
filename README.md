@@ -18,3 +18,11 @@ This repository contains my 60-day Frontend Developer preparation journey.
 | Day 1 | ✅     |
 | Day 2 | ⏳     |
 | Day 3 | ⏳     |
+
+## Tech Stack
+
+- HTML
+- CSS
+- JavaScript
+- React
+- Vite
